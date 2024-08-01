@@ -1,4 +1,4 @@
-# e-commerce-customer-segmentation
+# E-commerce customer segmentation using RFM analysis
 
 ### Project Overview
 This project involves a comprehensive analysis of customer segmentation for an e-commerce platform. Using RFM (Recency, Frequency, Monetary) based analysis, the aim to identify effective email marketing campaigns and uncover actionable insights to boost customer engagement and revenue is achieved.
